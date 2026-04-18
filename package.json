@@ -1,0 +1,18 @@
+{
+  "version": "v0.1.0",
+  "urls": [
+    [
+      "your_package/main.mpy",
+      "github:YourName/your_package/dist/your_package/main.mpy"
+    ],
+    [
+      "your_package/__init__.py",
+      "github:YourName/your_package/dist/your_package/__init__.py"
+    ],
+    [
+      "your_package/config.mpy",
+      "github:YourName/your_package/dist/your_package/config.mpy"
+    ]
+  ],
+  "deps": []
+}
